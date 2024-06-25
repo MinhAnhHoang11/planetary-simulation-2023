@@ -1,6 +1,6 @@
 ## COMP1730/6730 Project assignment
 
-# Your ANU ID: u7494091
+# Your ANU ID: 
 # Your NAME: Minh Anh Hoang
 # I declare that this submission is my own work
 # [ref: https://www.anu.edu.au/students/academic-skills/academic-integrity ]
